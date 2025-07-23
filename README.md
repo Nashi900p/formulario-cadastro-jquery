@@ -30,6 +30,10 @@ Este projeto simula um sistema de cadastro simples, como os usados em landing pa
 
 ---
 
+## 🌐 Visualização do Projeto
+
+🔗 Acesse o projeto online:  
+👉 [https://formulario-cadastro-jquery-opal.vercel.app/](https://formulario-cadastro-jquery-opal.vercel.app/)
 
 ---
 
@@ -47,6 +51,3 @@ Foi desenvolvido com fins **exclusivamente demonstrativos** para apresentação 
 Desenvolvedor Front-End da **GameBits Informática**
 
 ---
-
-
-
